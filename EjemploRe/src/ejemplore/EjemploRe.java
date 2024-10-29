@@ -14,6 +14,7 @@ public class EjemploRe {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        int h=0;
         System.out.println("Hola");
     }
     
